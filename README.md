@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SivaRajana
 - 👀 I’m interested in 
 - 🌱 I’m currently learning MERN full stack development
-- 💞️ I’m looking to collaborate on ...
-- 📫
+- 💞️ I’m looking to collaborate on HTML/ CSS/ JS currently.
+- 📫 Reachout to me via e-mail(sivathebatman@gmail.com)
 
-<!---
-SivaRajana/SivaRajana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
