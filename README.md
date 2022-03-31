@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @SivaRajana
 - **IIIT Nuzvid** where I learned Mechanical Engineering & Learning by doing the stuff.
 - Worked for 3 years in Capgemini and received Extramile performer award and consequitive promotions.
-- Currently capable of solving challenges with Javascript, python, HTML, CSS, BOOTSTRAP, SQLite.
+- Currently capable of solving challenges with ReactJS, Javascript, python, HTML, CSS, BOOTSTRAP, SQLite.
 - Love to write stuff on Quora (https://www.quora.com/profile/Siva-Rajana)
 # **Projects**: 
 -  https://github.com/SivaRajana/Expense-Tracker-Project (ReactJS Project)
