@@ -8,5 +8,5 @@
 	2. https://sivarajana.github.io/Todo_App/ (Javascript Project)
 	3. https://sivarajana.github.io/Tindog-Project/ (Responsive Web Design Project)
 
-- 📫 Reachout to me via e-mail(rajana.iiitn@gmail.com)
+ 📫 Reachout to me via e-mail(rajana.iiitn@gmail.com)
 
