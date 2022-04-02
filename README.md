@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m @SivaRajana
+- 👋 Hi, I’m Siva Rajana
 - **IIIT Nuzvid** where I learned Mechanical Engineering & Learning by doing the stuff.
 - Worked for 3 years in Capgemini and received Extramile performer award and consequitive promotions.
 - Currently capable of solving challenges with ReactJS, Javascript, python, HTML, CSS, BOOTSTRAP, SQLite.
