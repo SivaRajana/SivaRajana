@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Siva Rajana
 - **IIIT Nuzvid** where I learned Mechanical Engineering & Learning by doing the stuff.
 - Worked for 3 years in Capgemini and received Extramile performer award and consequitive promotions.
-- Currently capable of solving challenges with ReactJS, Javascript, python, HTML, CSS, BOOTSTRAP, SQLite.
+- Experienced Web Developer with a proven track record of building high-performance web applications. As an ExtraMile performer awardee at Capgemini, I have a strong focus on quality and attention to detail in my work. I am proficient in the latest web development technologies including React, Redux, RTL, JEST, Javascript, Typescript, Material UI, HTML, CSS, SASS, Styled Components, Bootstrap, Python, Git, and GitHub. I have worked on challenging projects such as Google Wrangler & LPLFinancial, Constructn.AI, and RevCDI. My ability to collaborate with cross-functional teams and my passion for innovation make me a valuable addition to any organization. Looking for an opportunity to leverage my skills and experience to build exceptional web applications and drive the success of a dynamic team
 - Love to write stuff on Quora (https://www.quora.com/profile/Siva-Rajana)
 # **Projects**: 
 
