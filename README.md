@@ -8,17 +8,47 @@
 - My linked in profile (https://www.linkedin.com/in/siva-rajana/)
 # **Projects**: 
 
-  **React Projects**
--  https://github.com/SivaRajana/Food_Order_App_React
--  https://github.com/SivaRajana/React_Projects (Each Branch Has different Project in this repo)
--  https://github.com/SivaRajana/Expense-Tracker-Project (ReactJS Basic Project)
+**Software Engineer	May 2022 - Present
+Divami Design Labs, Hyderabad, Telangana**
 
-  **Vanilla JS Projects**
--  https://github.com/SivaRajana/Java-Script-Practice-Projects (couple small projects to explore stuff on vanill JS & DOM APIs)
--  https://sivarajana.github.io/Todo_App/ (Javascript Live Project)
+**Reventics**
+Led the development of a documentation improvement system for the healthcare domain, improving efficiency and effectiveness.
+Created user-friendly custom templates with drag-and-drop features, simplifying complex tasks and enhancing usability.
+Utilized GraphQL API consumption to streamline data retrieval and facilitate seamless communication between systems.
+Tech Stack: ReactJS, Typescript, Javascript, Material-UI, HTML, CSS, Styled Components, SCSS
 
+**Google Wrangler**
+Designed an exceptional user interface for Google's CDAP Wrangler Application, enabling users to efficiently wrangle datasets for analysis and research purposes.
+Leveraged React Redux, Hooks, Props, and context to develop a robust UI that effectively modeled the application's functionalities.
+Maintained consistently high coding standards, ensuring clean and optimized code for enhanced performance and maintainability.
+Tech Stack: ReactJS, Redux, Typescript, Javascript, Material-UI, SASS, Styled-Components, CSS, HTML
 
-  **Front End Projects(RWD)**
--  https://sivarajana.github.io/Tindog-Project/ (Responsive Web Design Project)
+**Constructn.AI**
+Contributed to the development of Constructn.ai, an automated construction monitoring solution that improved efficiency and ensured timely and budget-friendly project delivery for general contractors and asset owners.
+Successfully tackled challenging tasks, including the implementation of multi-select tree views, enhancing the user experience, and providing intuitive functionality.
+Played a key role in writing common components, promoting code reusability
+Tech Stack: NextJS, ReactJS, Redux, Typescript, Javascript, Material-UI, RTL, JEST
+#
+**Associate Loco Pilot	Nov 2019 - Dec 2021
+Indian Railways**
+Transitioning from Assistant Loco Pilot to software development, I bring strong problem-solving skills and attention to detail gained from my railway experience to effectively identify and resolve software issues.
+My commitment to safety and following protocols translates into producing reliable and secure software solutions.
+I possess excellent communication and teamwork skills developed through railway operations, enabling seamless collaboration with development teams and stakeholders.
+With a knack for grasping complex systems and following procedures, I ensure efficient coding practices and deliver high-quality software products.
+#
+**Associate Consultant	Dec 2016 - Oct 2019
+Capgemini, Mumbai, Maharashtra**
+
+**LPL Financial - ClientWorks**
+Responsible for developing new user-facing features using React.js
+Responsible for translating designs and wireframes into high-quality code
+Contributed to the development of product and customer experience
+Worked with a geographically distributed team of engineers
+Maintaining software through the product lifecycle including design, development, verification, and bug fixes
+Tech Stack: ReactJS, Javascript, Web Components(JS), CSS, HTML
+Achievements:
+Extra-mile Award by BU(Business Unit) head
+Received consecutive promotions at Capgemini
+
 
 **Reachout to me via e-mail(rajana.iiitn@gmail.com)**
