@@ -8,7 +8,7 @@
 - My linked in profile (https://www.linkedin.com/in/siva-rajana/)
 # **Projects**: 
 
-**Software Engineer Aug 2023 - Present
+**Software Engineer Aug 2023 - Present, 
 EPAM Systems, Hyderabad, Telangana**
 Transitioning from Assistant Loco Pilot to software development, I bring strong problem-solving skills and attention to detail gained from my railway experience to effectively identify and resolve software issues.
 My commitment to safety and following protocols translates into producing reliable and secure software solutions.
@@ -17,7 +17,7 @@ With a knack for grasping complex systems and following procedures, I ensure eff
 #
 
 
-**Software Engineer	May 2022 - July 2023
+**Software Engineer	May 2022 - July 2023, 
 Divami Design Labs, Hyderabad, Telangana**
 
 **Reventics**
@@ -38,14 +38,14 @@ Successfully tackled challenging tasks, including the implementation of multi-se
 Played a key role in writing common components, promoting code reusability
 Tech Stack: NextJS, ReactJS, Redux, Typescript, Javascript, Material-UI, RTL, JEST
 #
-**Associate Loco Pilot	Nov 2019 - Dec 2021
+**Associate Loco Pilot	Nov 2019 - Dec 2021, 
 Indian Railways**
 Transitioning from Assistant Loco Pilot to software development, I bring strong problem-solving skills and attention to detail gained from my railway experience to effectively identify and resolve software issues.
 My commitment to safety and following protocols translates into producing reliable and secure software solutions.
 I possess excellent communication and teamwork skills developed through railway operations, enabling seamless collaboration with development teams and stakeholders.
 With a knack for grasping complex systems and following procedures, I ensure efficient coding practices and deliver high-quality software products.
 #
-**Associate Consultant	Dec 2016 - Oct 2019
+**Associate Consultant	Dec 2016 - Oct 2019, 
 Capgemini, Mumbai, Maharashtra**
 
 **LPL Financial - ClientWorks**
