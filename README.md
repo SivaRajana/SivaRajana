@@ -10,6 +10,7 @@
 
 **Software Engineer Aug 2023 - Present, 
 EPAM Systems, Hyderabad, Telangana**
+
 **S&P Global - Ratings**
 Working for famous deal analyzer desktop application using Electron framework.
 Just started working on it, will provide the tech stack details later.
