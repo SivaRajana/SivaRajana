@@ -8,7 +8,16 @@
 - My linked in profile (https://www.linkedin.com/in/siva-rajana/)
 # **Projects**: 
 
-**Software Engineer	May 2022 - Present
+**Software Engineer Aug 2023 - Present
+EPAM Systems, Hyderabad, Telangana**
+Transitioning from Assistant Loco Pilot to software development, I bring strong problem-solving skills and attention to detail gained from my railway experience to effectively identify and resolve software issues.
+My commitment to safety and following protocols translates into producing reliable and secure software solutions.
+I possess excellent communication and teamwork skills developed through railway operations, enabling seamless collaboration with development teams and stakeholders.
+With a knack for grasping complex systems and following procedures, I ensure efficient coding practices and deliver high-quality software products.
+#
+
+
+**Software Engineer	May 2022 - July 2023
 Divami Design Labs, Hyderabad, Telangana**
 
 **Reventics**
